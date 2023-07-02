@@ -1,9 +1,6 @@
 html{
     background-image: url('triceratops.jpg');
-    webkit-background-size: cover;
-    moz-background-size: cover;
-    o-background-size: cover;
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
