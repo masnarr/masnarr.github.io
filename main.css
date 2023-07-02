@@ -12,5 +12,5 @@ html{
 background-image: url('230314153048-02-dinosaur-record-long-neck.jpg');
 background-size: cover;
 background-repeat: no-repeat;
-background-position: center center;
+background-attachment: fixed;
 }
