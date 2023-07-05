@@ -1,14 +1,16 @@
 h1{
     color:rgb(157, 255, 0);
+    text-align: center;
 }
+
 
 p, h2, ul{
     color:red;
+    text-align: center;
 }
 
 ul li a {
     color:floralwhite;
-    float:
 }
 
 ul li a visited {
