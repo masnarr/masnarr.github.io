@@ -1,5 +1,5 @@
 body{
     background-image: url('thagomizer-1.jpg'); 
-    background-size: 100%;
+    background-size: cover;
     background-position: center center;
 }
