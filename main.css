@@ -18,6 +18,10 @@ ul li a visited {
     color:fuchsia
 }
 
+ul{
+    list-style-type: none;
+}
+
 body{
 background-image: url('230314153048-02-dinosaur-record-long-neck.jpg');
 background-size: 100%;
