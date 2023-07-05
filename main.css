@@ -6,7 +6,13 @@ p, h2, ul{
     color:red;
 }
 
+.link {
+    color:floralwhite
+}
 
+a.visited {
+    color:fuchsia
+}
 
 body{
 background-image: url('230314153048-02-dinosaur-record-long-neck.jpg');
