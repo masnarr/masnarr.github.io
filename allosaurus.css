@@ -6,3 +6,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+p h1{
+    color:aliceblue;
+}
