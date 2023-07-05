@@ -6,11 +6,11 @@ p, h2, ul{
     color:red;
 }
 
-.link {
+ul li a {
     color:floralwhite
 }
 
-a.visited {
+ul li a visited {
     color:fuchsia
 }
 
