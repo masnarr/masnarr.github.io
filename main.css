@@ -14,10 +14,6 @@ ul, li, a {
     color:firebrick;
 }
 
-ul li a {
-
-}
-
 ul li{
     list-style-type: none;
     padding: 10px;
