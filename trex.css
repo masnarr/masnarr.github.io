@@ -4,3 +4,15 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+h1 p {
+    text-align: center;
+}
+
+h1{
+    color:crimson;
+}
+
+p{
+    color:azure;
+}
