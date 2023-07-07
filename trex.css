@@ -2,7 +2,7 @@ body{
     background-image: url('tyrex.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment:scroll;
 }
 
 h1 p {
