@@ -11,11 +11,11 @@ p, h2, ul{
 }
 
 ul, li, a {
-    color:rgba(254, 244, 100, 0.756);
+    color:firebrick;
 }
 
-ul li a visited {
-    color:fuchsia
+ul li a {
+
 }
 
 ul li{
