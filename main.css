@@ -10,7 +10,7 @@ p, h2, ul{
     text-align: center;
 }
 
-ul li a {
+ul, li, a {
     color:rgba(254, 244, 100, 0.756);
 }
 
