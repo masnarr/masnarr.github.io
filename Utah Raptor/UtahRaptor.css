@@ -7,3 +7,15 @@ p{
     text-align: center;
     color:black;
 }
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.background-image{
+    background-image: url("File\ Raptor_Red_with_family.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    height:100vh;
+}
