@@ -4,6 +4,7 @@ h1{
     text-align: center;
     color:red;
     position: absolute;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -12,6 +13,7 @@ p{
     text-align: center;
     color:black;
     position: absolute;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
