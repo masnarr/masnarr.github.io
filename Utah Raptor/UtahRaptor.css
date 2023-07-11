@@ -4,12 +4,16 @@ h1{
     text-align: center;
     color:red;
     position: absolute;
+    align-items: center;
+    justify-content: center;
 }
 
 p{
     text-align: center;
     color:black;
     position: absolute;
+    align-items: center;
+    justify-content: center;
 }
 
 *{
@@ -22,4 +26,7 @@ p{
     background-size: cover;
     background-repeat:no-repeat;
     height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
