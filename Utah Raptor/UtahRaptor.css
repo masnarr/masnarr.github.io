@@ -1,21 +1,19 @@
 
-
-h1{
-    text-align: center;
-    color:red;
+.class details {
     position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+h1{
+    text-align: center;
+    color:red;
+}
+
 p{
     text-align: center;
     color:black;
-    position: absolute;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 *{
