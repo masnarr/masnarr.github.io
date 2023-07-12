@@ -1,26 +1,20 @@
-h1 p{
-    color:aliceblue;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
-
 *{
     margin:0;
     padding:0;
 }
 
-.background-image{
-    background-image: url("allosaurus.jpg");
-    background-size: cover;
-    background-repeat:no-repeat;
-    height:100vh;
+h1{
+    text-align: center;
+    color: crimson;
 }
 
-.details {
-    height: 200px;
+p{
+    text-align: center;
     width: 200px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+}
+
+.background-image{
+    background-image: url('Dinosaurs/Allosaurus/allosaurus.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
