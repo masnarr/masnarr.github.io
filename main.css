@@ -10,10 +10,6 @@ h1{
     width:200px;
 }
 
-.Dinosaurs{
-    font-size: 25px;
-}
-
-.Space{
-    font-size: 25px;
+.Dinosaurs, .Space{
+    font-size: 50px;
 }
