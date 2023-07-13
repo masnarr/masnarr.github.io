@@ -5,7 +5,6 @@ h1{
 
 .Stuff{
     display: flex;
-    justify-content: center;
     height:200px;
     width:200px;
 }
