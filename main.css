@@ -4,7 +4,8 @@ h1{
 }
 
 .Stuff{
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
     height:200px;
     width:200px;
 }
