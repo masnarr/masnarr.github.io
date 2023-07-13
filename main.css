@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.Stuff{
+    display: inline-block;
+    height:200px;
+    width:200px;
+}
+
+.Dinosaurs{
+    font-size: 25px;
+}
+
+.Space{
+    font-size: 25px;
+}
