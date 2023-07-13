@@ -1,4 +1,18 @@
+header{
+    background-color: rgb(81, 76, 76);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+nav{
+    margin: 0;
+    padding: 20px 0;
+}
+
 ul li{
     list-style-type: none;
     padding: 10px 0px 10px 0px;
+    display: inline-block;
+    width: 80px;
 }
