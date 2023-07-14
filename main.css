@@ -27,12 +27,14 @@ h1{
     grid-area: space;
     margin-left: auto;
     margin-right: auto;
+    font-size: 200px;
 }
 
 .dinosaurs{
     grid-area: dino;
     margin-left: auto;
     margin-right: auto;
+    font-size: 200px;
 }
 
 h1{
