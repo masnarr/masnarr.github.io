@@ -19,7 +19,7 @@ h1{
     grid-template-rows: auto;
     grid-template-areas: 
     "header header header header"
-    ". dino space ."
+    "dino dino space space"
     "footer . . .";
 }
 
