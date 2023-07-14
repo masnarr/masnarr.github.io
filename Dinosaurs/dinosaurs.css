@@ -11,7 +11,8 @@ h1{
 p{
     color: black;
     width: 400px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2, ul, h3{
