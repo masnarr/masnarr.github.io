@@ -1,3 +1,9 @@
+header {
+    background-color: #333333;
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+}
 
 .container{
     display: grid;
@@ -5,18 +11,23 @@
     grid-template-rows: auto;
     grid-template-areas: 
     "header header header header"
+    "title title title title"
     ". earth earth ."
     "footer . . .";
 }
 
+.navigation{
+    grid-area: header;
+}
 
 .title{
-    grid-area: header;
+    grid-area: title;
 }
 
 .earth{
     grid-area: earth;
 }
+
 /*
 body{
     background-image: url('Earth.jpg');
