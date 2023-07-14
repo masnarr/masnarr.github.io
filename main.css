@@ -22,3 +22,16 @@ h1{
     ". dino . space"
     "footer . . .";
 }
+
+.space{
+    grid-area: space;
+}
+
+.dinosaurs{
+    grid-area: dino;
+}
+
+h1{
+    grid-area: header;
+}
+
