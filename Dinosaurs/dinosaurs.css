@@ -37,7 +37,7 @@ main{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    column-gap: 50px;
+    column-gap: 25px;
     row-gap: 50px;
 }
 
