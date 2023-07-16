@@ -36,6 +36,8 @@ main{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+    column-gap: 20px;
+    row-gap: 20px;
 }
 
 /*
