@@ -69,3 +69,8 @@ header{
     background-color: yellow;
     border: solid black;
 }
+
+nav{
+    align-items: start;
+}
+
