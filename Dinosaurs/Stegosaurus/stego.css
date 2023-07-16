@@ -1,5 +1,6 @@
 body{
-    background-image: url('thagomizer-1.jpg'); 
+    background-image: url("/Dinosaurs/Stegosaurus/thagomizer-1.jpg"); 
     background-size: cover;
     background-position: center center;
+    max-width: 100%;
 }
