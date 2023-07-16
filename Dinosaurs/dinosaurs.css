@@ -39,6 +39,7 @@ main{
     justify-content: space-around;
     column-gap: 50px;
     row-gap: 50px;
+    border:solid black;
 }
 
 /*
