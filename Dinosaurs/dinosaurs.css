@@ -68,9 +68,10 @@ body{
 header{
     background-color: yellow;
     border: solid black;
+    margin: 0;
+    padding: 0;
 }
 
-nav{
+nav footer{
     align-items: start;
 }
-
