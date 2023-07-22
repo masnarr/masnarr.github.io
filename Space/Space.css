@@ -33,18 +33,18 @@ main{
     border:solid white;
   }
 
-  .link{
+.link{
     border: solid white;
   }
 
-  h1 h2{
+h1 h2{
     text-align: center;
   }
 
-  *{
+*{
     color: aliceblue;
   }
 
-  body{
+body{
     background-color: black;
   }
