@@ -32,3 +32,19 @@ main{
     max-width: 100%;
     border:solid white;
   }
+
+  .link{
+    border: solid white;
+  }
+
+  h1 h2{
+    text-align: center;
+  }
+
+  *{
+    color: aliceblue;
+  }
+
+  body{
+    background-color: black;
+  }
