@@ -16,3 +16,19 @@ ul li{
     display: inline-block;
     width: 80px;
 }
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    column-gap: 25px;
+    row-gap: 50px;
+}
+
+.logo {
+    width: 350px;
+    height: 300px;
+    max-width: 100%;
+    border:solid white;
+  }
