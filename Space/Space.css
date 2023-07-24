@@ -18,7 +18,7 @@ ul li{
     width: 80px;
 }
 */
-main{
+.main{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
