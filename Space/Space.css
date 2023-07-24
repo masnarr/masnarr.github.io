@@ -1,3 +1,4 @@
+/*
 header{
     background-color: rgb(81, 76, 76);
     position: fixed;
@@ -16,7 +17,7 @@ ul li{
     display: inline-block;
     width: 80px;
 }
-
+*/
 main{
     display: flex;
     flex-direction: row;
