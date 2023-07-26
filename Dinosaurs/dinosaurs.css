@@ -59,6 +59,8 @@ main {
 
 body{
     background-color: rgba(76, 169, 14, 0.715);
+    margin:0;
+    padding:0;
 }
 
 .dino{
