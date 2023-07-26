@@ -20,6 +20,7 @@ h1{
     grid-template-areas: 
     "header header header header"
     "dino dino space space"
+    "books books movies movies"
     "footer . . .";
 }
 
@@ -33,6 +34,20 @@ h1{
 .dinosaurs{
     grid-area: dino;
     margin-left: auto;
+    margin-right: auto;
+    font-size: 75px;
+}
+
+.books{
+    grid-area: books;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 75px;
+}
+
+.movies{
+    gird-area: movies;
+    margin-left:auto;
     margin-right: auto;
     font-size: 75px;
 }
