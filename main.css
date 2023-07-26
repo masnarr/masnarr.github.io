@@ -46,7 +46,7 @@ h1{
 }
 
 .movies{
-    gird-area: movies;
+    grid-area: movies;
     margin-left:auto;
     margin-right: auto;
     font-size: 75px;
