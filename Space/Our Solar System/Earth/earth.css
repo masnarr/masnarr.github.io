@@ -35,3 +35,9 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }*/
+
+footer{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}

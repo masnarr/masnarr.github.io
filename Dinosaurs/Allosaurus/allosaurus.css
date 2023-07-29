@@ -28,3 +28,9 @@ p{
 body{
     background-color: rgb(205, 43, 43);
 }
+
+footer{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}

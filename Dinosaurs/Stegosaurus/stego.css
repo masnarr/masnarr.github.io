@@ -4,3 +4,9 @@ body{
     background-position: center center;
     max-width: 100%;
 }
+
+footer{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}

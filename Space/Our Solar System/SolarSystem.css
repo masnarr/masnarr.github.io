@@ -38,3 +38,9 @@ main{
   body{
     background-color: black;
   }
+
+  footer{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}

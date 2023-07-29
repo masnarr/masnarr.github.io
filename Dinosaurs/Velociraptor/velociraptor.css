@@ -13,3 +13,8 @@ body{
     background-position: center;
 }
 
+footer{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}

@@ -78,6 +78,8 @@ header{
     border: solid black;
 }
 
-nav footer{
-    align-items: start;
+footer{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
 }
