@@ -54,6 +54,20 @@ h1{
     font-size: 75px;
 }
 
+.videogame{
+    grid-area: videogame;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 75px;
+}
+
+.sports{
+    grid-area: sports;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 75px;
+}
+
 h1{
     grid-area: header;
 }
