@@ -3,7 +3,7 @@ h1 p{
 }
 
 
-body{
+/*body{
     background-image: url('velociraptor.webp');
     background-size: cover;
     background-repeat: no-repeat;
@@ -11,6 +11,16 @@ body{
     background-size: 100%;
     background-position-y: center;
     background-position: center;
+}*/
+
+.logo{
+    width:500px;
+    height: 500px;
+    max-width: 100%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
 }
 
 footer{
