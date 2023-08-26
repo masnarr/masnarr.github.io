@@ -3,6 +3,10 @@ header{
     background-color: red;
 }
 
+body{
+    background-color: yellow;
+}
+
 p{
     margin-left: auto;
     margin-right: auto;
