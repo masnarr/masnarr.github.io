@@ -12,10 +12,14 @@ p{
     color: white;
 }
 
-ul{
+h2, ul{
     color: white;
 }
 
 body{
     background-color: black;
+}
+
+header, footer{
+    color:white;
 }

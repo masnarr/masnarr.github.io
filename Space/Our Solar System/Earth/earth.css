@@ -19,6 +19,7 @@
 
 .earth{
     grid-area: earth;
+    display: block;
 }
 
 header {
@@ -41,4 +42,9 @@ footer{
     flex-direction: column;
     align-items: center;
     background-color: aliceblue;
+}
+
+p{
+    height: 500px;
+    width: 500px;
 }
