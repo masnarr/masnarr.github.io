@@ -9,4 +9,9 @@ p, h2, ul{
     width: 700px;
     margin-left: auto;
     margin-right: auto;
+    color: white;
+}
+
+body{
+    background-color: black;
 }
