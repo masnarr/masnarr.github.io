@@ -4,9 +4,9 @@
     margin-right: auto;
 }
 
-p{
+p, h2, ul{
     text-align: center;
-    width: 650px;
+    width: 700px;
     margin-left: auto;
     margin-right: auto;
 }
