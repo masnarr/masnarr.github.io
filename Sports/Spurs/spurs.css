@@ -23,3 +23,19 @@ body{
 header, footer{
     color:white;
 }
+
+a:link{
+    color: silver;
+}
+
+a:visited{
+    color: orange;
+}
+
+a:hover{
+    color:pink;
+}
+
+a:active{
+    color:aqua;
+}
