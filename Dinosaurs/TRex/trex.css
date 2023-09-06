@@ -22,6 +22,7 @@ p{
 body{
     background-color: brown;
 }
+
 footer{
     display:flex;
     flex-direction: column;
