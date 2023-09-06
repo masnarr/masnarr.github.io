@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+}
+
+p, h1, h2, a{
+    color: rgba(36, 108, 36, 0.774)
+}
+
