@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(219, 215, 85);
+}
+
+p{
+    color:white;
+    width:550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color:rgb(255, 255, 6);
+    align-items: center;
+}
+
