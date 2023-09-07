@@ -23,8 +23,9 @@ h1{
     grid-template-areas: 
     "header header header header"
     "dino dino space space"
-    "books books movies movies"
-    "sports sports videogame videogame"
+    "books books sports sports"
+    "videogame videogame movies movies"
+    "TV TV music music"
     "footer footer footer footer";
 }
 
@@ -65,6 +66,20 @@ h1{
 
 .sports{
     grid-area: sports;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 75px;
+}
+
+.music{
+    grid-area: music;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 75px;
+}
+
+.TV{
+    grid-area: TV;
     margin-left: auto;
     margin-right: auto;
     font-size: 75px;
