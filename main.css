@@ -33,56 +33,56 @@ h1{
     grid-area: space;
     margin-left: auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 .dinosaurs{
     grid-area: dino;
     margin-left: auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 .books{
     grid-area: books;
     margin-left: auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 .movies{
     grid-area: movies;
     margin-left:auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 .videogame{
     grid-area: videogame;
     margin-left: auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 .sports{
     grid-area: sports;
     margin-left: auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 .music{
     grid-area: music;
     margin-left: auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 .TV{
     grid-area: TV;
     margin-left: auto;
     margin-right: auto;
-    font-size: 75px;
+    font-size: 70px;
 }
 
 h1{
