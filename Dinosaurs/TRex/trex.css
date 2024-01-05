@@ -32,3 +32,7 @@ footer{
     padding:0;
     border: solid black;
 }
+
+header{
+    margin: 20px;
+}
